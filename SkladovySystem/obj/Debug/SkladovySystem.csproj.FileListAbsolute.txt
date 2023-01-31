@@ -1,0 +1,13 @@
+C:\Users\bulka.ondrej3\source\repos\SkladovySystem\SkladovySystem\bin\Debug\SkladovySystem.exe.config
+C:\Users\bulka.ondrej3\source\repos\SkladovySystem\SkladovySystem\bin\Debug\SkladovySystem.exe
+C:\Users\bulka.ondrej3\source\repos\SkladovySystem\SkladovySystem\bin\Debug\SkladovySystem.pdb
+C:\Users\bulka.ondrej3\source\repos\SkladovySystem\SkladovySystem\obj\Debug\SkladovySystem.csprojAssemblyReference.cache
+C:\Users\bulka.ondrej3\source\repos\SkladovySystem\SkladovySystem\obj\Debug\SkladovySystem.Form1.resources
+C:\Users\bulka.ondrej3\source\repos\SkladovySystem\SkladovySystem\obj\Debug\SkladovySystem.Properties.Resources.resources
+C:\Users\bulka.ondrej3\source\repos\SkladovySystem\SkladovySystem\obj\Debug\SkladovySystem.csproj.GenerateResource.cache
+C:\Users\bulka.ondrej3\source\repos\SkladovySystem\SkladovySystem\obj\Debug\SkladovySystem.csproj.CoreCompileInputs.cache
+C:\Users\bulka.ondrej3\source\repos\SkladovySystem\SkladovySystem\obj\Debug\SkladovySystem.exe
+C:\Users\bulka.ondrej3\source\repos\SkladovySystem\SkladovySystem\obj\Debug\SkladovySystem.pdb
+C:\Users\bulka.ondrej3\source\repos\SkladovySystem\SkladovySystem\bin\Debug\System.Data.SQLite.dll
+C:\Users\bulka.ondrej3\source\repos\SkladovySystem\SkladovySystem\bin\Debug\System.Data.SQLite.xml
+C:\Users\bulka.ondrej3\source\repos\SkladovySystem\SkladovySystem\obj\Debug\SkladovySystem.csproj.CopyComplete
